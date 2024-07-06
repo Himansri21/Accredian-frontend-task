@@ -1,54 +1,24 @@
 const Posts = [
     {
       id: 1,
-      title: 'Boost your conversion rate',
-      href: '#',
+      title: 'EASY REFERAL',
       description:
-        'Illo sint voluptas. Error voluptates culpa eligendi. Hic vel totam vitae illo. Non aliquid explicabo necessitatibus unde. Sed exercitationem placeat consectetur nulla deserunt vel. Iusto corrupti dicta.',
-      date: 'Mar 16, 2020',
-      datetime: '2020-03-16',
-      category: { title: 'Marketing', href: '#' },
-      author: {
-        name: 'Michael Foster',
-        role: 'Co-Founder / CTO',
-        href: '#',
-        imageUrl:
-          'https://images.unsplash.com/photo-1519244703995-f4e0f30006d5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80',
-      },
+      `get an easy referrals bonus via our website's referral section`,
+      category: { title: 'STEP1', href: '#' },
     },
     {
-      id: 1,
-      title: 'Boost your conversion rate',
-      href: '#',
+      id: 2,
+      title: 'EARN REWARD ON JOINING',
       description:
-        'Illo sint voluptas. Error voluptates culpa eligendi. Hic vel totam vitae illo. Non aliquid explicabo necessitatibus unde. Sed exercitationem placeat consectetur nulla deserunt vel. Iusto corrupti dicta.',
-      date: 'Mar 16, 2020',
-      datetime: '2020-03-16',
-      category: { title: 'Marketing', href: '#' },
-      author: {
-        name: 'Michael Foster',
-        role: 'Co-Founder / CTO',
-        href: '#',
-        imageUrl:
-          'https://images.unsplash.com/photo-1519244703995-f4e0f30006d5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80',
-      },
+      `Earn rewards once your referral joins an Accredian Program`,
+      category: { title: 'STEP2', href: '#' },
     },
     {
-      id: 1,
-      title: 'Boost your conversion rate',
-      href: '#',
+      id: 3,
+      title: 'RECIEVE BONUS',
       description:
-        'Illo sint voluptas. Error voluptates culpa eligendi. Hic vel totam vitae illo. Non aliquid explicabo necessitatibus unde. Sed exercitationem placeat consectetur nulla deserunt vel. Iusto corrupti dicta.',
-      date: 'Mar 16, 2020',
-      datetime: '2020-03-16',
-      category: { title: 'Marketing', href: '#' },
-      author: {
-        name: 'Michael Foster',
-        role: 'Co-Founder / CTO',
-        href: '#',
-        imageUrl:
-          'https://images.unsplash.com/photo-1519244703995-f4e0f30006d5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80',
-      },
+      `Both parties recieve a bonus 30 days after program enrollment`,
+      category: { title: 'STEP3', href: '#' },
     },
     // More posts...
   ]
