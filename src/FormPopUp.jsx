@@ -26,7 +26,7 @@ const FormPopup = () => {
   const handleSubmit = async (e) => {
     e.preventDefault();
     try {
-      await axios.post('http://localhost:3001/submit-form', formData);
+      await axios.post('https://accredian-backend-task-j2kv.onrender.com/submit-form', formData); // Use the correct backend URL
       alert('Form submitted successfully!');
       setIsPopupVisible(false);
       setFormData({
@@ -41,6 +41,7 @@ const FormPopup = () => {
       alert('There was an error submitting the form!');
     }
   };
+  
   return (<div className="relative">
   <button
     className="px-4 py-2 bg-blue-500 text-white rounded"
