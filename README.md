@@ -1,3 +1,6 @@
+# Accredian-frontend-task
+Fronted to a referral website created using react and tailwindcss
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
